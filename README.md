@@ -4,11 +4,11 @@
 
 ## Présentation
 
-Actuellement en formation intensive à la Wild Code School de Strasbourg, j'apprends à développer en PHP mais aussi beaucoup d'autres choses pour être dans quelques semaine Developpeuse Web.
-Vous trouverez sur mon GitHub quelques uns de mes projets personnels et scolaires.
+Actuellement en formation intensive à la Wild Code School de Strasbourg, j'apprends à développer en PHP mais aussi beaucoup d'autres choses pour être dans quelques semaine Developpeuse Web. <br/>
+Vous trouverez sur mon GitHub quelques uns de mes projets personnels et scolaires.<br/>
 **Bonne visite !**
 
-<img src="photo-cv.jpg" alt="Ma photo" width="150" />
+<img src="photo-cv.jpg" alt="Ma photo" width="150" style="float:right"/>
 
 ***
 
@@ -38,8 +38,6 @@ _JS - Intégration_
 
 J'occupe mes temps libres avec beaucoup de bricolages, quelques balades, un peu de lecture et pas mal de séries. 
 
-Pour plus de détails sur mon parcours, [retrouvez-moi sur Linkedin](https://www.linkedin.com/in/a-denizot/)
-
-
+#### Pour plus de détails sur mon parcours, [retrouvez-moi sur Linkedin](https://www.linkedin.com/in/a-denizot/)
 
 
