@@ -14,9 +14,9 @@ Vous trouverez sur mon GitHub quelques uns de mes projets personnels et scolaire
 
 ## Mes formations
 
-- sept 2020 - fev 2021 (en cours) : **Developpeuse web et web mobile**. _Wild Code School. Strasbourg._
+- sept 2020 - fev 2021 (en cours) : **Developpeuse web et web mobile**. <br/> _Wild Code School. Strasbourg._
 
-- mai 2020 - sept 2020 : **Developpement web en autodidacte** . _OpenClassrooms & Co._
+- mai 2020 - sept 2020 : **Developpement web en autodidacte** . <br/> _OpenClassrooms & Co._
 
 ***
 
@@ -37,6 +37,8 @@ _JS - Intégration_
 ## Mes autres passions
 
 J'occupe mes temps libres avec beaucoup de bricolages, quelques balades, un peu de lecture et pas mal de séries. 
+
+***
 
 #### Pour plus de détails sur mon parcours, [retrouvez-moi sur Linkedin](https://www.linkedin.com/in/a-denizot/)
 
