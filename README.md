@@ -12,15 +12,19 @@ Vous trouverez sur mon GitHub quelques uns de mes projets personnels et scolaire
 
 ***
 
-## Mes formations
+## Mes formations 
 
 - sept 2020 - fev 2021 (en cours) : **Developpeuse web et web mobile**. <br/> _Wild Code School. Strasbourg._
 
 - mai 2020 - sept 2020 : **Developpement web en autodidacte** . <br/> _OpenClassrooms & Co._
 
+- 2014 : **Master Conseil en Education** . <br/> _ESPE de Poitiers._
+
+- 2012 : **Licence Culture et Communication** . <br/> _Université de Lorraine_
+
 ***
 
-## Mon expérience 
+## Mon expérience
 
 - **Projet 2 (en cours)**: création d'un site web pour un groupe de musique avec boutique, agenda et envoi de newletters. Session utilisateur pour suivi commandes et autres information personnelles et administrateur pour modification de données sur le site et visualisation de informations utilisateurs. <br/>
 _HTML - Bootstrap - PHP - Twig - MySQL_
@@ -31,6 +35,10 @@ _HTML - CSS - MySQL (PDO) - PHP_ <br/>
 
 - Autres petits **projets personnels**
 _JS - Intégration_
+
+#### Et avant de découvrir le développement web :
+- 2016-2020 : **Responsable de sites périscolaires maternels**. _Erstein._
+- 2015 : **Service Civique : SOS Village d'Enfants**. _Jarville._
 
 ***
 
