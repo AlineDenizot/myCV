@@ -37,7 +37,7 @@ _HTML - CSS - MySQL (PDO) - PHP_ <br/>
 _JS - Intégration_
 
 #### Et avant de découvrir le développement web :
-- 2016-2020 : **Responsable de sites périscolaires maternels**. _Erstein._
+- 2016-2020 : **Responsable de sites périscolaires maternels**. _Erstein._ <br/>
 - 2015 : **Service Civique : SOS Village d'Enfants**. _Jarville._
 
 ***
