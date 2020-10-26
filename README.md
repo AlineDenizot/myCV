@@ -2,15 +2,13 @@
 
 ***
 
-
-
 ## Présentation
 
-Actuellement en formation intensive à la Wild Code School de Strasbourg, j'apprends à développer en PHP mais aussi beaucoup d'autres choses pour être dans quelques semaine Developpeuse Web.<br/>
-Vous trouverez sur mon GitHub quelques uns de mes projets personnels et scolaires.<br/>
+Actuellement en formation intensive à la Wild Code School de Strasbourg, j'apprends à développer en PHP mais aussi beaucoup d'autres choses pour être dans quelques semaine Developpeuse Web.
+Vous trouverez sur mon GitHub quelques uns de mes projets personnels et scolaires.
 **Bonne visite !**
 
-![Aline Denizot]()
+<img src="photo-cv.jpg" alt="Ma photo" width="150" />
 
 ***
 
